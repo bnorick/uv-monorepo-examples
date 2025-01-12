@@ -36,4 +36,4 @@ Hello from project0!
 ```
 
 ## Other examples
-Return to [main](/bnorick/uv-monorepo-examples/tree/main) to see a list of all examples.
+Return to [main](/../../tree/main) to see a list of all examples.
